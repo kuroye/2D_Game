@@ -54,3 +54,27 @@ itch.io
 unity官方素材  
 inkarnate 地图  
 https://game-icons.net/
+
+
+
+# 第一周
+设计：
+大地图  
+主人公
+界面布局
+基本场景
+
+人物能动：
+行走 跑 跳
+
+学习：
+c#   
+找playmaker  
+设计：Aseprite  
+
+# 第二周
+
+
+# 第三周
+
+
